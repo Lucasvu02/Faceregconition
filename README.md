@@ -3,7 +3,7 @@
 **Step 1**: Create models folder
 
 **Step 2**: Download models following this link and put into models folder:
-https://drive.google.com/drive/folders/1oOh45sI7HCWvlC7JzbpFcK5JQ81jg2Gc?usp=drive_link
+https://drive.google.com/drive/folders/18JPDcYJelxNg3BrObwE7aVklMQLPmJyg?usp=share_link
 
 # CLI
 
